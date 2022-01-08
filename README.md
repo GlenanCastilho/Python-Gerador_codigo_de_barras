@@ -5,5 +5,6 @@
 <h1>🔧 Dependencias</h1>
 
 <ul>
-  <li></li>
+  <li>barcode.writer</li>
+  <li>barcode</li>
 </ul>
