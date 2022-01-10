@@ -8,3 +8,9 @@
   <li>barcode.writer</li>
   <li>barcode</li>
 </ul>
+
+<h1>📚 Requisitos</h1>
+
+<ul>
+  <li></li>
+ </ul>
